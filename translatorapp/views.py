@@ -13,6 +13,9 @@ def translate(request):
 
 
 
+
+
+
     if request.method == 'POST':
         source_text = request.POST.get('source_text')
         target_lang = request.POST.get('target_lang')
