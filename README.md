@@ -1,2 +1,2 @@
 # translator
-translator for postgradute
+translator for postgraduate
