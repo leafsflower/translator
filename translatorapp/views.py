@@ -6,7 +6,7 @@ from django.shortcuts import render
 from django.shortcuts import render
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 def translate(request):
